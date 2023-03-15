@@ -1,2 +1,2 @@
-# my-first-repo
-Just Practicing
+# my-first-repo minor update!
+Practice account for learning it
